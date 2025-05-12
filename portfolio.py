@@ -7,7 +7,7 @@ portfolio_data = {
     "name": "Ruchika Mahajan",
     "tagline": "Student | Web Developer | AI Developer | Tech Enthusiast",
     "about": "Creative tech enthusiast with a strong foundation in Mathematics and Electrical Engineering, passionate about building secure, scalable, and user-centric digital experiences. I bridge deep learning, embedded systems, and full-stack development to deliver impactful, real-time solutions.",
-    "image_url": "https://drive.google.com/uc?export=1ye18d1cb4pqRLOqQXwdTi6SOqmTUtXkW/view?usp=drive_lin",  # Added image URL (replace with your actual image)
+    "image_url": "https://drive.google.com/thumbnail?id=1ye18d1cb4pqRLOqQXwdTi6SOqmTUtXkW&sz=w1000",  # Added image URL (replace with your actual image)
     "skills": {
         "Programming Languages": ["Python (Advanced)", "C/C++", "R"],
         "Machine Learning": ["TensorFlow", "PyTorch", "scikit-learn", "OpenCV"],
